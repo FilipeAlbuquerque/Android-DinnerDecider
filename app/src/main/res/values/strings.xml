@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DinnerDecider</string>
+    <string name="chinese">Chinese</string>
+    <string name="imagem_logo">Imagem logo</string>
+    <string name="decide">Decide!</string>
+    <string name="add_food">Add food</string>
+    <string name="add_new_food">add new food</string>
 </resources>
